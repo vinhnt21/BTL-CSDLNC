@@ -1,0 +1,6 @@
+.venv
+.obsidian
+documents/
+assets/
+app/__pycache__/
+app/.env
